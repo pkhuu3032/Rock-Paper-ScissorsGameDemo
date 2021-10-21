@@ -10,4 +10,6 @@ Resourse material I use as guide and refernce
 5. https://www.reddit.com/r/Python/
 6. https://www.youtube.com/c/TechWithTim/playlists
 7. https://www.google.com/
+8. https://www.codegrepper.com/code-examples/whatever/convert+ui+to+py
+9. https://www.youtube.com/watch?v=UZX5kH72Yx4
 
